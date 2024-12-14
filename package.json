@@ -1,0 +1,25 @@
+{
+  "name": "vite-feature-flag-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "packageManager": "pnpm@9.15.0",
+  "engines": {
+    "node": ">=20 <23"
+  },
+  "devDependencies": {
+    "@virtual-live-lab/eslint-config": "2.2.14",
+    "@virtual-live-lab/prettier-config": "2.0.13",
+    "@virtual-live-lab/tsconfig": "2.1.14",
+    "eslint": "9.17.0",
+    "prettier": "3.4.2",
+    "typescript": "5.7.2",
+    "typescript-eslint": "8.18.0"
+  }
+}
