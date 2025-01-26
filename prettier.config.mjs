@@ -1,1 +1,1 @@
-export { default } from "@virtual-live-lab/eslint-config";
+export { default } from "@virtual-live-lab/prettier-config";

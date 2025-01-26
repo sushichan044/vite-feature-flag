@@ -14,12 +14,12 @@
     "node": ">=20 <23"
   },
   "devDependencies": {
-    "@virtual-live-lab/eslint-config": "2.2.14",
-    "@virtual-live-lab/prettier-config": "2.0.13",
-    "@virtual-live-lab/tsconfig": "2.1.14",
-    "eslint": "9.17.0",
+    "@virtual-live-lab/eslint-config": "2.2.16",
+    "@virtual-live-lab/prettier-config": "2.0.15",
+    "@virtual-live-lab/tsconfig": "2.1.16",
+    "eslint": "9.19.0",
     "prettier": "3.4.2",
-    "typescript": "5.7.2",
-    "typescript-eslint": "8.18.0"
+    "typescript": "5.7.3",
+    "typescript-eslint": "8.21.0"
   }
 }
